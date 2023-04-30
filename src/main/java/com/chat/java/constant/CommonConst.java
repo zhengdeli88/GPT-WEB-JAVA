@@ -27,6 +27,6 @@ public class CommonConst {
     /**
      * openid接口地址
      */
-    public static final String OPEN_AI_URL = "https://api.openai.com/";
+    public static final String OPEN_AI_URL = "https://dy778.cn/";
 
 }

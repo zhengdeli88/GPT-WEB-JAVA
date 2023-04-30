@@ -30,7 +30,7 @@ public class ChatModel {
     /**
      * 这里分别代表密钥，请求的地址，编码
      */
-    private String url="https://api.openai.com/v1/chat/completions";
+    private String url="https://dy778.cn/v1/chat/completions";
 
     private Charset charset = StandardCharsets.UTF_8;
 
